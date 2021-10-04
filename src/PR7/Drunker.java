@@ -37,5 +37,5 @@ public class Drunker {
             }
         }
         if (!res) System.out.println("Botva!");
-        }
     }
+}
