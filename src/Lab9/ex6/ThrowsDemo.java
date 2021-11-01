@@ -17,7 +17,6 @@ public class ThrowsDemo {
     }
     private String getDetails(String key){
         if(key == "") {
-            //throw new Exception( "Key set to empty string" );
         }
         return "data for " + key;
     }

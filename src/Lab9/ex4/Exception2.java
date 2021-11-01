@@ -2,10 +2,7 @@ package Lab9.ex4;
 
 import java.util.Scanner;
 
-/*
-И наконец добавьте блок finally к решению Задания №2.
-Повторно запустите программу, чтобы проверить ее поведение. Объясните новое поведение программы
- */
+
 public class Exception2 {
     public void exceptionDemo() {
         try {
@@ -17,9 +14,6 @@ public class Exception2 {
         }catch(Exception e) {
             System.out.println("Exception happened!");
         }
-//        catch (NumberFormatException e){             // Compile error: NumberFormatException already catched
-//            System.out.println("Not correct number");
-//        }
         finally {
             System.out.println("finally");
         }

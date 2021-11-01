@@ -2,9 +2,6 @@ package PR8;
 
 import java.util.ArrayList;
 
-/**
- * Main class for starting program and tests.
- */
 public class Main {
 
     public static void main(String[] args) {
