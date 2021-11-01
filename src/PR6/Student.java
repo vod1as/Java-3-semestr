@@ -1,29 +1,24 @@
 package PR6;
 
-public class Student implements Comparable {
-
-    private int idNum;
+import java.util.Arrays;
+public class Student {
+    private int ID;
     private int GPA;
 
-    public Student(int idNum, int GPA) {
-        this.idNum = idNum;
-        this.GPA = GPA;
+    public Student(int ID,int GPA) {
+        this.ID = ID;
+        this.GPA=GPA;
     }
 
-    @Override
-    public String toString() {
-        return "Student{" +
-                "idNum=" + idNum +
-                ", GPA=" + GPA +
-                '}';
+    public Student() {
     }
 
-    public int getIdNum() {
-        return idNum;
+    public int getID() {
+        return ID;
     }
 
-    public void setIdNum(int idNum) {
-        this.idNum = idNum;
+    public void setID(int ID) {
+        this.ID = ID;
     }
 
     public int getGPA() {
@@ -32,13 +27,5 @@ public class Student implements Comparable {
 
     public void setGPA(int GPA) {
         this.GPA = GPA;
-    }
-
-    @Override
-    public int compareTo(Object o) {
-        if(!(o instanceof Student))
-            throw new IllegalArgumentException("Объект не является студентом!");
-        // < 0 -> o, 0 -> ==, >0 -> this;
-        return this.idNum - ((Student) o).idNum;
     }
 }
