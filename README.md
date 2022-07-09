@@ -1,6 +1,6 @@
 # Java-3-semestr
 
-####Лабораторные работы 
+#### Лабораторные работы 
 
 #### Работа №1
 
@@ -54,6 +54,6 @@
 
 Работа с исключениями
 
-![Условие задачи]([content.com/91833762/178117613-f014abd8-298d-4017-ba06-4f44b719ea18.jpg](https://docs.google.com/document/d/1fF5gYxBwNWZElGKrcdD_mdpSb7PhSwTo/edit?usp=sharing&ouid=109169957447542338441&rtpof=true&sd=true))
+[Условие задачи]([content.com/91833762/178117613-f014abd8-298d-4017-ba06-4f44b719ea18.jpg](https://docs.google.com/document/d/1fF5gYxBwNWZElGKrcdD_mdpSb7PhSwTo/edit?usp=sharing&ouid=109169957447542338441&rtpof=true&sd=true))
 
 [Решение задачи](https://github.com/vod1as/Java-3-semestr/tree/master/src/Lab9)
