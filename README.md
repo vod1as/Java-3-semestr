@@ -76,15 +76,19 @@
 #### Работа №3
 
 3.1
+
 ![image](https://user-images.githubusercontent.com/91833762/178118173-c66461a6-9c43-41d7-8ce8-7e15ce4a9f3b.png)
 
 3.2
+
 ![image](https://user-images.githubusercontent.com/91833762/178118185-2e40e178-a564-4efc-9ff8-0e5b77e3f132.png)
 
 3.3
+
 ![image](https://user-images.githubusercontent.com/91833762/178118207-151e8d64-e340-489b-8011-7dc5bf68c148.png)
 
 3.4
+
 ![image](https://user-images.githubusercontent.com/91833762/178118216-f817ede9-0420-464a-9215-9aa8704ca311.png)
 
 [Решение задачи](https://github.com/vod1as/Java-3-semestr/tree/master/src/PR3)
@@ -97,7 +101,7 @@
 
 #### Работа №5
 
-#####ПРОГРАММИРОВАНИЕ РЕКУРСИИ В JAVA
+ПРОГРАММИРОВАНИЕ РЕКУРСИИ В JAVA
 
 [Решение задачи](https://github.com/vod1as/Java-3-semestr/tree/master/src/PR5)
 
